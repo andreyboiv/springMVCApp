@@ -1,6 +1,6 @@
 <b>Spring MVC CRUD APPLICATION</b>
 
-<b>Video presentation of the project:</b> 
+<b>Video presentation of the project (deutsch):</b> 
 <p>https://www.boivalenko.com/img/java_ep/spring/projekt_1/spring_mvc_crud.mp4</p> 
 
 <b>Description:</b>
