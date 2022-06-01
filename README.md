@@ -1,4 +1,4 @@
-<b>Spring MVC CRUD APP</b>
+<b>Spring MVC CRUD APPLICATION</b>
 
 <b>Video presentation of the project:</b> 
 <p>https://www.boivalenko.com/img/java_ep/spring/projekt_1/spring_mvc_crud.mp4</p> 
