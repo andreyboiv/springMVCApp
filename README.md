@@ -1,7 +1,7 @@
 # Spring MVC CRUD APPLICATION
 
 <b>Video presentation of the project (deutsch):</b> 
-[spring_mvc_crud.mp4](src/main/webapp/resources/spring_mvc_crud.mp4)
+[![Watch the video](src/main/webapp/resources/crud_app.jpg)](src/main/webapp/resources/spring_mvc_crud.mp4)
 
 <b>Description:</b>
 There was a basis for a Spring MVC CRUD application (with a DB table "player"). 
