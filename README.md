@@ -1,7 +1,7 @@
 # Spring MVC CRUD APPLICATION
 
 <b>Video presentation of the project (deutsch):</b> 
-<p>https://www.boivalenko.com/img/java_ep/spring/projekt_1/spring_mvc_crud.mp4</p> 
+[spring_mvc_crud.mp4](src/main/webapp/resources/spring_mvc_crud.mp4)
 
 <b>Description:</b>
 There was a basis for a Spring MVC CRUD application (with a DB table "player"). 
