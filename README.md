@@ -1,10 +1,9 @@
+Maven, Spring, Spring Data JPA, MySQL, Tomcat, JUnit
+
 # Spring MVC CRUD APPLICATION
 
-<b>Video presentation of the project (deutsch):</b>
 <p>
 </p>
-
-[![Watch the video](src/main/webapp/resources/crud_app.jpg)](src/main/webapp/resources/spring_mvc_crud.mp4)
 
 <b>Description:</b>
 There was a basis for a Spring MVC CRUD application (with a DB table "player"). 
@@ -27,3 +26,8 @@ The basis of the project included Spring configuration classes, UI and JUnit tes
 4. MySQL
 5. Tomcat
 6. JUnit
+
+Screenshot from Frontend:
+<br/>
+<br/>
+<img src="src/main/webapp/resources/img.png" alt="drawing" style="width:600px;"/>
