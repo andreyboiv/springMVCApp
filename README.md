@@ -1,5 +1,3 @@
-Maven, Spring, Spring Data JPA, MySQL, Tomcat, JUnit
-
 # Spring MVC CRUD APPLICATION
 
 <p>
